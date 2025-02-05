@@ -26,7 +26,7 @@ In this game, **two players** race through a **vibrant maze**, using different c
 ---
 
 ### **🚀 Play the Game!**  
-🎮 **[Click here to play the demo]** *(replace with your actual demo link once uploaded)* 🎮  
+🎮 **[Click here to play the demo]** *(https://s4urav07.github.io/Maze_Game/index.html)* 🎮  
 
 ---
 
